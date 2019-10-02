@@ -1,0 +1,32 @@
+{
+  "name": "node",
+  "version": "1.0.1",
+  "description": "exercice node wild code school",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfcniblon/Node.git"
+  },
+  "keywords": [
+    "exercice",
+    "de",
+    "la",
+    "wild",
+    "code",
+    "school",
+    "sur",
+    "node"
+  ],
+  "author": "lambinet nicolas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rfcniblon/Node/issues"
+  },
+  "homepage": "https://github.com/rfcniblon/Node#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
